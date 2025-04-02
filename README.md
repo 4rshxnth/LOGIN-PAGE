@@ -24,4 +24,4 @@ A simple, responsive login page built with HTML and CSS. This project showcases 
 
 > **Here’s a preview of the login page**
 
-![Screenshot](https://github.com/user-attachments/assets/3f6fbe48-de3e-43d7-9a9b-8e47fe8791dd)
+![Screenshot](https://github.com/4rshxnth/LOGIN-PAGE/blob/main/image/Preview.png)
